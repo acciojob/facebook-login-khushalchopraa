@@ -35,7 +35,10 @@ input{
 }
 .signup{
 	background-color: #42b72a;
-	height: 40px;
+	height: 35px;
+	border: none;
+	border-radius: 4px;
+	
 	
 }
 img{
