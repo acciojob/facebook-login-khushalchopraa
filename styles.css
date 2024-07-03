@@ -22,12 +22,13 @@ form{
 	gap: 10px;
 }
 .btn{
-	border: 1pz solid #ccc;
+	border: none;
 	border-radius: 5px;
 	padding: 10px;
 	background-color: #1877f2;
 	border-radius: 5px;
 	padding: 10px 20px;
+	color: white;
 }
 input{
 	border: 1pz solid #ccc;
@@ -38,11 +39,11 @@ input{
 	height: 35px;
 	border: none;
 	border-radius: 4px;
-	
+	color: white;
 	
 }
 img{
-	width: 240px;
+	width: 400px;
 }
 .blue{
 	color: blue;
